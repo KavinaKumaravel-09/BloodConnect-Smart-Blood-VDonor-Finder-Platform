@@ -1,0 +1,6 @@
+{
+  "name": "PulseLink Blood Donor Finder",
+  "description": "Emergency blood donor network to find donors by blood group and location, register volunteers, and dispatch real-time urgent request alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
